@@ -212,7 +212,7 @@ const projects = [
       },
     ],
     image: tripguide,
-    source_code_link: "https://github.com/mohdshafaquearif",
+    source_code_link: "https://github.com/mohdshafaquearif/Dockerization-of-Grocery-Website.git",
   },
 ];
 
